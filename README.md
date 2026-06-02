@@ -30,6 +30,6 @@ O sistema foi construído em etapas modulares, simulando um ambiente corporativo
 **1. Clone o repositório e acesse a pasta:**
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/ecostyle-insight-engine.git](https://github.com/SEU_USUARIO/ecostyle-insight-engine.git)
+git clone [https://github.com/Camilalarissa/ecostyle-insight-engine.git](https://https://github.com/Camilalarissa/ecostyle-insight-engine.git)
 cd ecostyle-insight-engine
 ```
